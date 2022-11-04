@@ -4,7 +4,7 @@ for n in range(100000000000000000000): #The number between the parentheses indic
 
     url = "https://api.dynadot.com/api3.xml?key=[API-KEY]&command=register&duration=1&domain=[DOMAIN-HERE]"
 
-#You need to replace your API key with [API-KEY] and also replace [DOMAIN-HERE] with the domain you want to catch.
+#You need to replace [API-KEY] with your Dynadot API and also replace [DOMAIN-HERE] with the domain you want to catch.
 
 #For example: url = "https://api.dynadot.com/api3.xml?key=7a6nf76sdf6gnd68fadnfs87dfgsd78fg7sdms&command=register&duration=1&domain=google.com"
 
