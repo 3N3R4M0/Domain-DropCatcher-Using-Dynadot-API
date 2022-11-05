@@ -8,3 +8,8 @@ After that you need to install a python library called **requests**, to do that,
 
 # Configuration
 You need to replace [API-KEY] with your Dynadot API and also replace [DOMAIN-HERE] with the domain you want to catch.
+
+# Run
+Simply open your terminal/command prompt, head over to the folder where the script is located at, using cd command.
+
+After that, run the script by typing **python dropcatch.py**
